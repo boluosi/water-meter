@@ -67,11 +67,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="content\iview.css" />
+<<<<<<< HEAD
     <Content Include="main.html" />
+=======
+>>>>>>> 0d96d44f8658e059ae329434dbddbf23874c4453
     <Content Include="packages.config" />
     <Content Include="scripts\gauge.min.js.map" />
     <Content Include="scripts\iview.js" />
+<<<<<<< HEAD
     <Content Include="scripts\iview.min.js" />
+=======
+>>>>>>> 0d96d44f8658e059ae329434dbddbf23874c4453
     <Content Include="scripts\jquery-3.1.1.min.map" />
     <Content Include="scripts\jquery-3.1.1.slim.min.map" />
     <None Include="Web.Debug.config">
@@ -82,6 +88,23 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <Content Include="content\bootstrap-datetimepicker.min.css" />
+    <Content Include="content\bootstrap-theme.css" />
+    <Content Include="content\bootstrap-theme.min.css" />
+    <Content Include="content\bootstrap.css" />
+    <Content Include="content\bootstrap.min.css" />
+    <Content Include="content\favicon.ico" />
+    <Content Include="content\fonts.css" />
+    <Content Include="content\jquery.tablesorter.min.css" />
+    <Content Include="content\logo-hit.png" />
+    <Content Include="content\uzone.css" />
+    <Content Include="scripts\bootstrap-datetimepicker.js" />
+    <Content Include="scripts\bootstrap-datetimepicker.min.js" />
+    <Content Include="scripts\bootstrap.js" />
+    <Content Include="scripts\bootstrap.min.js" />
+>>>>>>> 0d96d44f8658e059ae329434dbddbf23874c4453
     <Content Include="scripts\echarts.min.js" />
     <Content Include="scripts\gauge.min.js" />
     <None Include="scripts\jquery-3.1.1.intellisense.js" />
