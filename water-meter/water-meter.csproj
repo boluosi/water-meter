@@ -65,6 +65,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="content\iview.css" />
     <Content Include="packages.config" />
     <Content Include="content\bootstrap-theme.css.map" />
     <Content Include="content\bootstrap-theme.min.css.map" />
@@ -73,6 +74,7 @@
     <Content Include="content\digital-7-mono.ttf" />
     <Content Include="content\uzone.less" />
     <Content Include="scripts\gauge.min.js.map" />
+    <Content Include="scripts\iview.js" />
     <Content Include="scripts\jquery-3.1.1.min.map" />
     <Content Include="scripts\jquery-3.1.1.slim.min.map" />
     <None Include="Web.Debug.config">
@@ -83,7 +85,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="content\bootstrap-datetimepicker.css" />
     <Content Include="content\bootstrap-datetimepicker.min.css" />
     <Content Include="content\bootstrap-theme.css" />
     <Content Include="content\bootstrap-theme.min.css" />
